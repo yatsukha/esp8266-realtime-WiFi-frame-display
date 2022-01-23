@@ -1,0 +1,12 @@
+.pio
+.clang_complete
+.gcc-flags.json
+.ccls
+.cache
+.ccls-cache
+.vim
+test/
+lib/
+data/config.txt
+compile_commands.json
+.DS_Store
